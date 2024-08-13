@@ -1,8 +1,15 @@
 # Powering integration tests with Testcontainers
 ## Workshop repo link: [bit.ly/testcontainers-repo](https://bit.ly/testcontainers-repo)
 ## Pastebin link: [bit.ly/testcontainers-pb](https://bit.ly/testcontainers-pb)
+
+### Presenters:
+## Jose Zamudio
+## Emilio Escobedo
+
+
 ### Disclaimers
 #### We're not related to Testcontainers in any way. We just hate mocking and love Docker.
+#### We're not yet Testcontainers experts, but we're figuring it out 
 
 ## Pre-requisites
 * Java 17+
