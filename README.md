@@ -1,4 +1,6 @@
 # Powering integration tests with Testcontainers
+
+### While we get started please clone the repo, setup the project in your favorite IDE, and open the pastebin since we will be sharing code snippets there. 
 ## Workshop repo link: [bit.ly/testcontainers-repo](https://bit.ly/testcontainers-repo)
 ## Pastebin link: [bit.ly/testcontainers-pb](https://bit.ly/testcontainers-pb)
 
